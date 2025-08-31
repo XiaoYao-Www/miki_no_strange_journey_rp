@@ -1,0 +1,35 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "miki:pallet_truck",
+			"materials": {
+				"default": "camel"
+			},
+			"textures": {
+				"default": "textures/entity/pallet_truck/default"
+			},
+			"geometry": {
+				"default": "geometry.pallet_truck"
+			},
+			"spawn_egg": {
+				"base_color": "#452e3f",
+				"overlay_color": "#d7b5ce"
+			},
+			"animations": {
+				"walk": "animation.pallet_truck.walk",
+				"idle": "animation.pallet_truck.idle",
+				"look_at_target": "animation.common.look_at_target"
+			},
+			"scripts": {
+				"animate": [
+				"idle",
+				{
+					"walk": "query.modified_move_speed > 0.1 && query.has_rider"
+				}
+				]
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

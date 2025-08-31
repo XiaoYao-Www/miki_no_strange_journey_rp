@@ -1,0 +1,59 @@
+entity.miki:bow_soldier_villager.name=§fMIKI の bow_soldier_villager
+item.spawn_egg.entity.miki:bow_soldier_villager.name=§fMIKI の Spawn bow_soldier_villager
+
+entity.miki:stone_guardian.name=§fMIKI の Stone Guardian
+item.spawn_egg.entity.miki:stone_guardian.name=§fMIKI の Spawn Stone Guardian
+
+entity.miki:pallet_truck.name=§fMIKI の Pallet Truck
+item.spawn_egg.entity.miki:pallet_truck.name=§fMIKI の Spawn Pallet Truck
+
+entity.miki:axe_soldier.name=§fMIKI の axe_soldier
+item.spawn_egg.entity.miki:axe_soldier.name=§fMIKI の Spawn axe_soldier
+
+entity.miki:mage_villager.name=§fMIKI の mage_villager
+item.spawn_egg.entity.miki:mage_villager.name=§fMIKI の Spawn mage_villager
+
+entity.miki:goblin.name=§fMIKI の goblin
+item.spawn_egg.entity.miki:goblin.name=§fMIKI の Spawn goblin
+
+item.miki:short_sword=goblin short sword
+
+entity.miki:dungeon_watcher.name=§fMIKI の Dungeon Watcher
+item.spawn_egg.entity.miki:dungeon_watcher.name=§fMIKI の Spawn Dungeon Watcher
+
+entity.miki:shadow_hound.name=§fMIKI の Shadow Hound
+item.spawn_egg.entity.miki:shadow_hound.name=§fMIKI の Spawn Shadow Hound
+
+entity.miki:rubble_sprite.name=§fMIKI の Rubble Sprite
+item.spawn_egg.entity.miki:rubble_sprite.name=§fMIKI の Spawn Rubble Sprite
+
+entity.mik:chain_golem.name=§fMIKI の Chain Golem
+item.spawn_egg.entity.mik:chain_golem.name=§fMIKI の Spawn Chain Golem
+
+entity.miki:minecart_shooter.name=§fMIKI の minecart_shooter
+item.spawn_egg.entity.miki:minecart_shooter.name=§fMIKI の Spawn minecart_shooter
+
+item.miki:cooked_pufferfish=§fcooked pufferfish
+
+item.miki:cooked_rotten_flesh=§fcooked rotten flesh
+
+item.miki:clean_pufferfish=§fclean pufferfish
+
+item.miki:pufferfish_soup=§fpufferfish soup
+
+entity.miki:bison.name=§fBison
+item.spawn_egg.entity.miki:bison.name=§fSpawn Bison
+
+item.miki:goblin_ear=§fgoblin ear
+
+item.miki:cooked_goblin_ear=§fcooked goblin ear
+
+item.miki:goblin_earring=§fgoblin earring
+
+item.miki:raw_bison_meat=§fraw bison meat
+
+item.miki:cooked_bison_meat=§fcooked bison meat
+
+item.miki:bison_ribs=§fbison ribs
+
+item.miki:cooked_bison_ribs=§fcooked bison ribs

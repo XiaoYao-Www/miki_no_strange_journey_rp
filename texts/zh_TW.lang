@@ -1,18 +1,62 @@
 item.spawn_egg.entity.miki:soldier_villager.name=§f生成 MIKI の 村民士兵
 entity.miki:soldier_villager.name=§fMIKI の 村民士兵
+
 entity.miki:bow_soldier_villager.name=§fMIKI の 弓兵村民
 item.spawn_egg.entity.miki:bow_soldier_villager.name=§f生成 MIKI の 弓兵村民
+
 entity.miki:mage_villager.name=§fMIKI の 法師村民
 item.spawn_egg.entity.miki:mage_villager.name=§f生成 MIKI の 法師村民
+
 entity.miki:axe_soldier.name=§fMIKI の 斧頭村民士兵
 item.spawn_egg.entity.miki:axe_soldier.name=§f生成 MIKI の 斧頭村民士兵
+
 entity.miki:minecart_shooter.name=§fMIKI の 礦車射手
 item.spawn_egg.entity.miki:minecart_shooter.name=§f生成 MIKI の 礦車射手
+
 entity.miki:stone_guardian.name=§fMIKI の 石像守衛
 item.spawn_egg.entity.miki:stone_guardian.name=§f生成 MIKI の 石像守衛
+
 entity.miki:rubble_sprite.name=§fMIKI の 碎石精靈
 item.spawn_egg.entity.miki:rubble_sprite.name=§f生成 MIKI の 碎石精靈
+
 entity.miki:dungeon_watcher.name=§fMIKI の 寂靜守衛
 item.spawn_egg.entity.miki:dungeon_watcher.name=§f生成 MIKI の 寂靜守衛
+
 entity.miki:chain_golem.name=§fMIKI の 鏈錘獸
 item.spawn_egg.entity.miki:chain_golem.name=§f生成 MIKI の 鏈錘獸
+
+entity.miki:pallet_truck.name=§fMIKI の 拖板車
+item.spawn_egg.entity.miki:pallet_truck.name=§f生成 MIKI の 拖板車
+
+entity.miki:goblin.name=§fMIKI の 哥布林
+item.spawn_egg.entity.miki:goblin.name=§f生成 MIKI の 哥布林
+
+entity.miki:shadow_hound.name=§fMIKI の 暗影獵犬
+item.spawn_egg.entity.miki:shadow_hound.name=§f生成 MIKI の 暗影獵犬
+
+item.miki:short_sword=§f哥布林短劍
+
+item.miki:cooked_pufferfish=§f烤河豚肉
+
+item.miki:cooked_rotten_flesh=§f烤腐肉
+
+item.miki:clean_pufferfish=§f乾淨的河豚肉
+
+item.miki:pufferfish_soup=§f河豚肉湯
+
+entity.miki:bison.name=§f野牛
+item.spawn_egg.entity.miki:bison.name=§f生成 野牛
+
+item.miki:goblin_ear=§f哥布林耳朵
+
+item.miki:cooked_goblin_ear=§f烤哥布林耳朵
+
+item.miki:goblin_earring=§f哥布林耳環
+
+item.miki:raw_bison_meat=§f生野牛肉
+
+item.miki:cooked_bison_meat=§f烤野牛肉
+
+item.miki:bison_ribs=§f野牛肋排
+
+item.miki:cooked_bison_ribs=§f烤野牛肋排

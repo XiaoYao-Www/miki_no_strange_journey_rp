@@ -1,0 +1,41 @@
+{
+	
+	"texture_data": {
+		"short_sword": {
+			"textures": "textures/items/short_sword"
+		},
+		"cooked_pufferfish": {
+			"textures": "textures/items/cooked_pufferfish"
+		},
+		"cooked_rotten_flesh": {
+			"textures": "textures/items/cooked_rotten_flesh"
+		},
+		"clean_pufferfish": {
+			"textures": "textures/items/clean_pufferfish"
+		},
+		"pufferfish_soup": {
+			"textures": "textures/items/pufferfish_soup"
+		},
+		"goblin_ear": {
+			"textures": "textures/items/goblin_ear"
+		},
+		"cooked_goblin_ear": {
+			"textures": "textures/items/cooked_goblin_ear"
+		},
+		"goblin_earring": {
+			"textures": "textures/items/goblin_earring"
+		},
+		"raw_bison_meat": {
+			"textures": "textures/items/raw_bison_meat.png"
+		},
+		"cooked_bison_meat": {
+			"textures": "textures/items/cooked_bison_meat.png"
+		},
+		"bison_ribs": {
+			"textures": "textures/items/bison_ribs.png"
+		},
+		"cooked_bison_ribs": {
+			"textures": "textures/items/cooked_bison_ribs.png"
+		}
+	}
+}

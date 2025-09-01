@@ -60,3 +60,7 @@ item.miki:cooked_bison_meat=§f烤野牛肉
 item.miki:bison_ribs=§f野牛肋排
 
 item.miki:cooked_bison_ribs=§f烤野牛肋排
+
+item.miki:kitchen_knife=§f菜刀
+
+tile.miki:chopping_board.name=§f砧板

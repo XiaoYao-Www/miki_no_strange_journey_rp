@@ -2,28 +2,28 @@
 	
 	"texture_data": {
 		"short_sword": {
-			"textures": "textures/items/short_sword"
+			"textures": "textures/items/short_sword.png"
 		},
 		"cooked_pufferfish": {
-			"textures": "textures/items/cooked_pufferfish"
+			"textures": "textures/items/cooked_pufferfish.png"
 		},
 		"cooked_rotten_flesh": {
-			"textures": "textures/items/cooked_rotten_flesh"
+			"textures": "textures/items/cooked_rotten_flesh.png"
 		},
 		"clean_pufferfish": {
-			"textures": "textures/items/clean_pufferfish"
+			"textures": "textures/items/clean_pufferfish.png"
 		},
 		"pufferfish_soup": {
-			"textures": "textures/items/pufferfish_soup"
+			"textures": "textures/items/pufferfish_soup.png"
 		},
 		"goblin_ear": {
-			"textures": "textures/items/goblin_ear"
+			"textures": "textures/items/goblin_ear.png"
 		},
 		"cooked_goblin_ear": {
-			"textures": "textures/items/cooked_goblin_ear"
+			"textures": "textures/items/cooked_goblin_ear.png"
 		},
 		"goblin_earring": {
-			"textures": "textures/items/goblin_earring"
+			"textures": "textures/items/goblin_earring.png"
 		},
 		"raw_bison_meat": {
 			"textures": "textures/items/raw_bison_meat.png"
@@ -36,6 +36,9 @@
 		},
 		"cooked_bison_ribs": {
 			"textures": "textures/items/cooked_bison_ribs.png"
+		},
+		"kitchen_knife": {
+			"textures": "textures/items/kitchen_knife.png"
 		}
 	}
 }

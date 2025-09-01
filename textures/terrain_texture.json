@@ -9,6 +9,9 @@
         },
         "chopping_board_fish_pufferfish_raw": {
             "textures": "textures/blocks/chopping_board/fish_pufferfish_raw.png"
-        }
+        },
+	"inlay_workbench": {
+	    "textures": "textures/blocks/inlay_workbench.png"
+	}
     }
 }

@@ -1,36 +1,40 @@
 {
     "namespace": "inlay_workbench_table",
 
+    "empty": {
+        "ignored": true
+    },
+
     "table_input": {
         "type": "collection_panel",
         "anchor_from": "center",
         "anchor_to": "center",
-        "size": [ 0, 0 ],
+        "size": [0, 0],
 
         "collection_name": "container_items",
         "$item_collection_name": "container_items",
         "controls": [
             {
                 "weapon@common.container_item": {
-                    "offset": [0, -25],
+                    "offset": [-35, 0],
                     "collection_index": 0
                 }
             },
             {
-                "field0@common.container_item": {
-                    "offset": [-45, 5],
+                "socket_hole_0@common.container_item": {
+                    "offset": [35, -30],
                     "collection_index": 1
                 }
             },
             {
-                "field1@common.container_item": {
-                    "offset": [0, 10],
+                "socket_hole_1@common.container_item": {
+                    "offset": [40, 0],
                     "collection_index": 2
                 }
             },
             {
-                "field2@common.container_item": {
-                    "offset": [45, 5],
+                "socket_hole_2@common.container_item": {
+                    "offset": [35, 30],
                     "collection_index": 3
                 }
             }
@@ -40,11 +44,8 @@
     "toolbar": {
         "type": "image",
         "texture": "textures/ui/toolbar_background",
-        "size": [
-            "100%cm + 17px",
-            26
-        ],
-        "offset": [ 0, 3 ],
+        "size": ["100%cm + 17px", 26],
+        "offset": [0, 3],
         "anchor_from": "top_right",
         "anchor_to": "bottom_right",
         "controls": [
@@ -52,15 +53,12 @@
                 "inner": {
                     "type": "stack_panel",
                     "orientation": "horizontal",
-                    "size": [
-                        "100%c",
-                        18
-                    ],
+                    "size": ["100%c", 18],
                     "controls": [
                         {
                             "close_button_panel": {
                                 "type": "panel",
-                                "size": [ 15, "100%" ],
+                                "size": [15, "100%"],
                                 "bindings": [
                                     {
                                         "binding_name": "#close_button_visible",
@@ -70,7 +68,7 @@
                                 "controls": [
                                     {
                                         "close_button@common.light_close_button": {
-                                            "offset": [ 0, 0 ],
+                                            "offset": [0, 0],
                                             "anchor_from": "center",
                                             "anchor_to": "center"
                                         }
@@ -97,7 +95,7 @@
                         {
                             "main_panel": {
                                 "type": "panel",
-                                "size": [177, 166],
+                                "size": [177, 200],
                                 "controls": [
                                     {
                                         "toolbar@inlay_workbench_table.toolbar": {}

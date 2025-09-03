@@ -39,6 +39,9 @@
 		},
 		"kitchen_knife": {
 			"textures": "textures/items/kitchen_knife.png"
+		},
+		"inlay_workbench_table_placeholder": {
+			"textures": "textures/items/placeholder/inlay_workbench_table_placeholder.png"
 		}
 	}
 }

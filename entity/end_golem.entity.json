@@ -1,0 +1,38 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "miki:end_golem",
+			"materials": {
+				"default": "iron_golem"
+			},
+			"textures": {
+				"default": "textures/entity/end_golem/default"
+			},
+			"geometry": {
+				"default": "geometry.end_golem"
+			},
+			"animations": {
+				"walk": "animation.end_golem.walk",
+				"move": "animation.end_golem.move",
+				"walk_to_target": "animation.end_golem.walk_to_target",
+				"move_to_target": "animation.end_golem.move_to_target",
+				"attack": "animation.end_golem.attack",
+				"look_at_target": "animation.common.look_at_target",
+				"move_controller": "controller.animation.iron_golem.move",
+				"arm_controller": "controller.animation.iron_golem.arm_movement"
+			},
+			"scripts": {
+				"pre_animation": [
+					"variable.modified_tcos0 = Math.clamp(((Math.cos(query.modified_distance_moved * 13.5) * Math.min(query.modified_move_speed, 0.6) / variable.gliding_speed_value) * 25.0), -12.5, 12.5);"
+				],
+				"animate": ["look_at_target", "move_controller", "arm_controller"]
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#96f8a5",
+				"overlay_color": "#1b4652"
+			}
+		}
+	}
+}

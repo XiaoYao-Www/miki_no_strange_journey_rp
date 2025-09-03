@@ -81,3 +81,6 @@ item.miki:obsidian_heart=§f黑曜石心核
 item.miki:molten_shard=§f熔岩碎片
 
 item.miki:end_soul_fragment=§f終界靈魂碎片
+
+entity.miki:end_golem.name=§f終界魁儡
+item.spawn_egg.entity.miki:end_golem.name=§f生成終界魁儡

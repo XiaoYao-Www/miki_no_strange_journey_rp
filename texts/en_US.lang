@@ -78,3 +78,6 @@ item.miki:obsidian_heart=§fObsidian Heart
 item.miki:molten_shard=§fMolten Shard
 
 item.miki:end_soul_fragment=§fEnd Soul Fragment
+
+entity.miki:end_golem.name=§fEnd Golem
+item.spawn_egg.entity.miki:end_golem.name=§fSpawn End Golem

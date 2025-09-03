@@ -81,3 +81,5 @@ item.miki:end_soul_fragment=§fEnd Soul Fragment
 
 entity.miki:end_golem.name=§fEnd Golem
 item.spawn_egg.entity.miki:end_golem.name=§fSpawn End Golem
+
+item.miki:cooked_clownfish=§fcooked clownfish

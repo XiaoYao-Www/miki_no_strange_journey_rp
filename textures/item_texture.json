@@ -60,6 +60,9 @@
 		},
 		"end_soul_fragment": {
 			"textures": "textures/items/end_soul_fragment.png"
+		},
+		"cooked_clownfish": {
+			"textures": "textures/items/cooked_clownfish.png"
 		}
 	}
 }

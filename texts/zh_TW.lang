@@ -84,3 +84,5 @@ item.miki:end_soul_fragment=§f終界靈魂碎片
 
 entity.miki:end_golem.name=§f終界魁儡
 item.spawn_egg.entity.miki:end_golem.name=§f生成終界魁儡
+
+item.miki:cooked_clownfish=§f烤熱帶魚

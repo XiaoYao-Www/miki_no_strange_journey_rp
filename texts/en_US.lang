@@ -57,3 +57,24 @@ item.miki:cooked_bison_meat=§fcooked bison meat
 item.miki:bison_ribs=§fbison ribs
 
 item.miki:cooked_bison_ribs=§fcooked bison ribs
+
+item.miki:kitchen_knife=§fkitchen knife
+
+tile.miki:chopping_board.name=§fchopping board
+
+tile.miki:inlay_workbench.name=§finlay workbench
+
+entity.miki:nether_golem.name=§fnether golem
+item.spawn_egg.entity.miki:nether_golem.name=§fSpawn nether golem
+
+item.miki:eternal_shard=§fEternal Shard
+
+item.miki:nether_core=§fNether Core
+
+item.miki:void_core=§fVoid Core
+
+item.miki:obsidian_heart=§fObsidian Heart
+
+item.miki:molten_shard=§fMolten Shard
+
+item.miki:end_soul_fragment=§fEnd Soul Fragment

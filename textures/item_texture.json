@@ -42,6 +42,24 @@
 		},
 		"inlay_workbench_table_placeholder": {
 			"textures": "textures/items/placeholder/inlay_workbench_table_placeholder.png"
+		},
+		"eternal_shard": {
+			"textures": "textures/items/eternal_shard.png"
+		},
+		"nether_core": {
+			"textures": "textures/items/nether_core.png"
+		},
+		"void_core": {
+			"textures": "textures/items/void_core.png"
+		},
+		"obsidian_heart": {
+			"textures": "textures/items/obsidian_heart.png"
+		},
+		"molten_shard": {
+			"textures": "textures/items/molten_shard.png"
+		},
+		"end_soul_fragment": {
+			"textures": "textures/items/end_soul_fragment.png"
 		}
 	}
 }

@@ -65,4 +65,19 @@ item.miki:kitchen_knife=§f菜刀
 
 tile.miki:chopping_board.name=§f砧板
 
-tile.miki:inlay_workbench.name=Inlay Workbench
+tile.miki:inlay_workbench.name=§f鑲嵌工作台
+
+entity.miki:nether_golem.name=§f地獄魁儡
+item.spawn_egg.entity.miki:nether_golem.name=§f生成地獄魁儡
+
+item.miki:eternal_shard=§f永恆碎片
+
+item.miki:nether_core=§f地獄核心
+
+item.miki:void_core=§f虛空核心
+
+item.miki:obsidian_heart=§f黑曜石心核
+
+item.miki:molten_shard=§f熔岩碎片
+
+item.miki:end_soul_fragment=§f終界靈魂碎片

@@ -63,6 +63,12 @@
 		},
 		"cooked_clownfish": {
 			"textures": "textures/items/cooked_clownfish.png"
+		},
+		"gold_inlaid_nether_core": {
+			"textures": "textures/items/gold_inlaid_nether_core.png"
+		},
+		"gold_inlaid_void_core": {
+			"textures": "textures/items/gold_inlaid_void_core.png"
 		}
 	}
 }

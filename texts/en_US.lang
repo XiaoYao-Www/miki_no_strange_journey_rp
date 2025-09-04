@@ -83,3 +83,7 @@ entity.miki:end_golem.name=§fEnd Golem
 item.spawn_egg.entity.miki:end_golem.name=§fSpawn End Golem
 
 item.miki:cooked_clownfish=§fcooked clownfish
+
+item.miki:gold_inlaid_nether_core=§fGold Inlaid Nether Core
+
+item.miki:gold_inlaid_void_core=§fGold Inlaid Void Core

@@ -90,3 +90,14 @@ item.miki:cooked_clownfish=§f烤熱帶魚
 item.miki:wind_feather=§f風行羽
 
 item.miki:accessory_settings=§f飾品設定
+
+item.miki:gold_inlaid_nether_core=§f鍍金地獄核心
+
+item.miki:gold_inlaid_void_core=§f鍍金虛空核心
+
+entity.miki:bear.name=§f熊
+item.spawn_egg.entity.miki:bear.name=§f生成 熊
+
+item.miki:raw_bison_slice=§f生野牛肉片
+
+item.miki:cooked_bison_slice=§f烤野牛肉片

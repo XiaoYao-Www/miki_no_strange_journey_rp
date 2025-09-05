@@ -69,6 +69,12 @@
 		},
 		"gold_inlaid_void_core": {
 			"textures": "textures/items/gold_inlaid_void_core.png"
+		},
+		"raw_bison_slice": {
+			"textures": "textures/items/raw_bison_slice.png"
+		},
+		"cooked_bison_slice": {
+			"textures": "textures/items/cooked_bison_slice.png"
 		}
 	}
 }

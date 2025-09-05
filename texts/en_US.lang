@@ -87,3 +87,10 @@ item.miki:cooked_clownfish=§fcooked clownfish
 item.miki:gold_inlaid_nether_core=§fGold Inlaid Nether Core
 
 item.miki:gold_inlaid_void_core=§fGold Inlaid Void Core
+
+entity.miki:bear.name=§fBear
+item.spawn_egg.entity.miki:bear.name=§fSpawn Bear
+
+item.miki:raw_bison_slice=§fraw bison slice
+
+item.miki:cooked_bison_slice=§fcooked bison slice

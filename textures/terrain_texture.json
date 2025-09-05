@@ -10,8 +10,14 @@
         "chopping_board_fish_pufferfish_raw": {
             "textures": "textures/blocks/chopping_board/fish_pufferfish_raw.png"
         },
-	"inlay_workbench": {
-	    "textures": "textures/blocks/inlay_workbench.png"
-	}
+        "chopping_board_cooked_bison_meat": {
+            "textures": "textures/blocks/chopping_board/cooked_bison_meat.png"
+        },
+        "chopping_board_raw_bison_meat": {
+            "textures": "textures/blocks/chopping_board/raw_bison_meat.png"
+        },
+        "inlay_workbench": {
+            "textures": "textures/blocks/inlay_workbench.png"
+        }
     }
 }

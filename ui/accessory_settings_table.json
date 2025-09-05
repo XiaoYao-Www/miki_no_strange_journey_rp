@@ -1,8 +1,46 @@
 {
-    "namespace": "inlay_workbench_table",
+    "namespace": "accessory_settings_table",
 
-    "empty": {
-        "ignored": true
+    "necklace_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/necklace"
+    },
+
+    "ring_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/ring"
+    },
+
+    "belt_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/belt"
+    },
+
+    "bracelet_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/bracelet"
+    },
+
+    "amulet_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/amulet"
+    },
+
+    "special_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/special"
+    },
+
+    "relic_overlay": {
+        "type": "image",
+        "size": [16, 16],
+        "texture": "textures/ui/accessory_settings_table/relic"
     },
 
     "table_input": {
@@ -15,27 +53,59 @@
         "$item_collection_name": "container_items",
         "controls": [
             {
-                "weapon@common.container_item": {
-                    "offset": [-35, 0],
+                // 項鍊
+                "necklace@common.container_item": {
+                    "offset": [-35, -30],
+                    "$cell_overlay_ref": "accessory_settings_table.necklace_overlay",
                     "collection_index": 0
                 }
             },
             {
-                "socket_hole_0@common.container_item": {
-                    "offset": [35, -30],
+                // 戒指
+                "ring@common.container_item": {
+                    "offset": [-40, 0],
+                    "$cell_overlay_ref": "accessory_settings_table.ring_overlay",
                     "collection_index": 1
                 }
             },
             {
-                "socket_hole_1@common.container_item": {
-                    "offset": [40, 0],
+                // 腰帶
+                "belt@common.container_item": {
+                    "offset": [-35, 30],
+                    "$cell_overlay_ref": "accessory_settings_table.belt_overlay",
                     "collection_index": 2
                 }
             },
             {
-                "socket_hole_2@common.container_item": {
-                    "offset": [35, 30],
+                // 手鐲
+                "bracelet@common.container_item": {
+                    "offset": [35, -30],
+                    "$cell_overlay_ref": "accessory_settings_table.bracelet_overlay",
                     "collection_index": 3
+                }
+            },
+            {
+                // 護身符
+                "amulet@common.container_item": {
+                    "offset": [40, 0],
+                    "$cell_overlay_ref": "accessory_settings_table.amulet_overlay",
+                    "collection_index": 4
+                }
+            },
+            {
+                // 特殊
+                "special@common.container_item": {
+                    "offset": [35, 30],
+                    "$cell_overlay_ref": "accessory_settings_table.special_overlay",
+                    "collection_index": 5
+                }
+            },
+            {
+                // 遺器
+                "relic@common.container_item": {
+                    "offset": [0, 0],
+                    "$cell_overlay_ref": "accessory_settings_table.relic_overlay",
+                    "collection_index": 6
                 }
             }
         ]
@@ -82,7 +152,7 @@
         ]
     },
 
-    "inlay_workbench_table_panel": {
+    "accessory_settings_table_panel": {
         "type": "panel",
         "controls": [
             { "container_gamepad_helpers@common.container_gamepad_helpers": {} },
@@ -98,7 +168,7 @@
                                 "size": [177, 200],
                                 "controls": [
                                     {
-                                        "toolbar@inlay_workbench_table.toolbar": {}
+                                        "toolbar@accessory_settings_table.toolbar": {}
                                     },
                                     {
                                         "common_panel@common.common_panel": {
@@ -124,13 +194,13 @@
                                                                     "offset": [0, -5],
                                                                     "anchor_from": "top_middle",
                                                                     "anchor_to": "top_middle",
-                                                                    "text": "鑲嵌工藝台",
+                                                                    "text": "飾品配置",
                                                                     "color": "$title_text_color",
                                                                     "layer": 2
                                                                 }
                                                             },
                                                             {
-                                                                "table_input@inlay_workbench_table.table_input": {}
+                                                                "table_input@accessory_settings_table.table_input": {}
                                                             }
                                                         ]
                                                     }

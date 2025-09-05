@@ -86,3 +86,7 @@ entity.miki:end_golem.name=§f終界魁儡
 item.spawn_egg.entity.miki:end_golem.name=§f生成終界魁儡
 
 item.miki:cooked_clownfish=§f烤熱帶魚
+
+item.miki:wind_feather=§f風行羽
+
+item.miki:accessory_settings=§f飾品設定

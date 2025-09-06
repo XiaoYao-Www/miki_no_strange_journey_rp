@@ -75,6 +75,9 @@
 		},
 		"cooked_bison_slice": {
 			"textures": "textures/items/cooked_bison_slice.png"
-		}
+		},
+        "accessory_settings": {
+            "textures": "textures/items/function_items/accessory_settings.png"
+        }
     }
 }

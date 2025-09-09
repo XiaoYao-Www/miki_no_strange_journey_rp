@@ -78,6 +78,18 @@
 		},
         "accessory_settings": {
             "textures": "textures/items/function_items/accessory_settings.png"
-        }
+        },
+		"blood_necklace": {
+			"textures": "textures/items/blood_necklace.png"
+		},
+		"ring_of_swiftness": {
+			"textures": "textures/items/ring_of_swiftness.png"
+		},
+		"warcry_belt": {
+			"textures": "textures/items/warcry_belt.png"
+		},
+		"guardian_bracelet": {
+			"textures": "textures/items/guardian_bracelet.png"
+		}
     }
 }

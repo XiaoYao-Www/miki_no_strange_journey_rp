@@ -84,9 +84,9 @@ item.spawn_egg.entity.miki:end_golem.name=§fSpawn End Golem
 
 item.miki:cooked_clownfish=§fcooked clownfish
 
-item.miki:gold_inlaid_nether_core=§fGold Inlaid Nether Core
+item.miki:gold_inlaid_nether_core=§fGold Inlaid Nether Core 
 
-item.miki:gold_inlaid_void_core=§fGold Inlaid Void Core
+item.miki:gold_inlaid_void_core=§fGold Inlaid Void Core 
 
 entity.miki:bear.name=§fBear
 item.spawn_egg.entity.miki:bear.name=§fSpawn Bear
@@ -94,3 +94,248 @@ item.spawn_egg.entity.miki:bear.name=§fSpawn Bear
 item.miki:raw_bison_slice=§fraw bison slice
 
 item.miki:cooked_bison_slice=§fcooked bison slice
+
+item.miki:blood_necklace=§fBlood Necklace 
+
+item.miki:ring_of_swiftness=§fRing of Swiftness 
+
+item.miki:warcry_belt=§fWarcry Belt 
+
+item.miki:guardian_bracelet=§fGuardian Bracelet 
+
+ui.furnace.label=Furnace
+ui.smelter.label=Blast Furnace
+ui.smoker.label=Smoker
+ui.brewing_stand.label=Brewing Stand
+ui.enchanting_table.label=Enchanting Table
+
+potion.potency.1=	
+potion.potency.2=	
+potion.potency.3=	
+potion.potency.4=	
+potion.potency.5=	
+enchantment.level.1=	
+enchantment.level.2=	
+enchantment.level.3=	
+enchantment.level.4=	
+enchantment.level.5=	
+enchantment.level.6=	
+
+## light level 15
+
+tile.beacon.name=Beacon 
+tile.conduit.name=Conduit 
+entity.fireball.name=Fireball 
+item.flint_and_steel.name=Flint and Steel 
+tile.sea_pickle.name=Sea Pickle 
+tile.pearlescent_froglight.name=Pearlescent Froglight 
+tile.verdant_froglight.name=Verdant Froglight 
+tile.ochre_froglight.name=Ochre Froglight 
+tile.glowstone.name=Glowstone 
+tile.shroomlight.name=Shroomlight 
+item.bucketLava.name=Lava Bucket 
+tile.campfire.name=Campfire 
+tile.lantern.name=Lantern 
+tile.lit_pumpkin.name=Jack o'Lantern 
+tile.redstone_lamp.name=Redstone Lamp 
+tile.respawn_anchor.name=Respawn Anchor 
+tile.seaLantern.name=Sea Lantern 
+
+## light level 14
+
+tile.end_rod.name=End Rod 
+item.glow_berries.name=Glow Berries    
+tile.torch.name=Torch 
+
+## light level 13
+
+tile.blast_furnace.name=Blast Furnace 
+tile.furnace.name=Furnace 
+tile.smoker.name=Smoker 
+
+## light level 12
+
+tile.candle.name=Candle 
+tile.white_candle.name=White Candle 
+tile.orange_candle.name=Orange Candle 
+tile.magenta_candle.name=Magenta Candle 
+tile.light_blue_candle.name=Light Blue Candle 
+tile.yellow_candle.name=Yellow Candle 
+tile.lime_candle.name=Lime Candle 
+tile.pink_candle.name=Pink Candle 
+tile.gray_candle.name=Gray Candle 
+tile.light_gray_candle.name=Light Gray Candle 
+tile.cyan_candle.name=Cyan Candle 
+tile.purple_candle.name=Purple Candle 
+tile.blue_candle.name=Blue Candle 
+tile.brown_candle.name=Brown Candle 
+tile.green_candle.name=Green Candle 
+tile.red_candle.name=Red Candle 
+tile.black_candle.name=Black Candle 
+
+## light level 11
+
+tile.portal.name=Portal 
+
+## light level 10
+
+tile.soul_lantern.name=Soul Lantern 
+tile.soul_torch.name=Soul Torch 
+tile.soul_campfire.name=Soul Campfire 
+tile.crying_obsidian.name=Crying Obsidian 
+
+## light level 9
+
+tile.deepslate_redstone_ore.name=Deepslate Redstone Ore 
+tile.redstone_ore.name=Redstone Ore 
+
+## light level 7
+
+tile.enderChest.name=Ender Chest 
+tile.enchanting_table.name=Enchanting Table 
+tile.glow_lichen.name=Glow Lichen 
+tile.redstone_torch.name=Redstone Torch 
+
+## light level 6
+
+tile.sculk_catalyst.name=Sculk Catalyst 
+
+## light level 5
+
+tile.amethyst_cluster.name=Amethyst Cluster 
+
+## light level 4
+
+tile.large_amethyst_bud.name=Large Amethyst Bud 
+
+## light level 3
+
+tile.magma.name=Magma Block 
+
+## light level 2
+
+tile.medium_amethyst_bud.name=Medium Amethyst Bud 
+
+## light level 1
+
+item.brewing_stand.name=Brewing Stand 
+tile.brown_mushroom.name=Brown Mushroom 
+tile.dragon_egg.name=Dragon Egg 
+tile.end_portal_frame.name=End Portal Frame 
+tile.sculk_sensor.name=Sculk Sensor 
+tile.small_amethyst_bud.name=Small Amethyst Bud 
+
+## hunger point 14
+
+item.cake.name=Cake   
+
+## hunger point 13
+
+item.suspicious_stew.name=Suspicious Stew   
+
+## hunger point 10
+
+item.rabbit_stew.name=Rabbit Stew   
+
+## hunger point 8
+
+item.cooked_beef.name=Steak   
+item.steak.name=Steak   
+item.pumpkin_pie.name=Pumpkin Pie   
+item.cooked_porkchop.name=Cooked Porkchop   
+
+## hunger point 6
+
+item.beetroot_soup.name=Beetroot Soup   
+item.cooked_chicken.name=Cooked Chicken   
+item.muttonCooked.name=Cooked Mutton   
+item.cooked_salmon.name=Cooked Salmon   
+item.golden_carrot.name=Golden Carrot   
+item.honey_bottle.name=Honey Bottle   
+item.mushroom_stew.name=Mushroom Stew   
+
+## hunger point 5
+
+item.baked_potato.name=Baked Potato   
+item.bread.name=Bread   
+item.cooked_fish.name=Cooked Cod   
+item.cooked_rabbit.name=Cooked Rabbit   
+
+## hunger point 4
+
+item.chorus_fruit.name=Chorus Fruit   
+item.apple.name=Apple   
+item.appleEnchanted.name=Enchanted Golden Apple   
+item.golden_apple.name=Golden Apple   
+item.rotten_flesh.name=Rotten Flesh   
+
+## hunger point 3
+
+item.carrot.name=Carrot   
+item.porkchop.name=Raw Porkchop   
+item.rabbit.name=Raw Rabbit   
+item.beef.name=Raw Beef   
+
+## hunger point 2
+
+item.chicken.name=Raw Chicken   
+item.melon.name=Melon Slice   
+item.poisonous_potato.name=Poisonous Potato   
+item.cookie.name=Cookie   
+item.fish.name=Raw Cod   
+item.spider_eye.name=Spider Eye   
+item.muttonRaw.name=Raw Mutton   
+item.salmon.name=Raw Salmon   
+item.sweet_berries.name=Sweet Berries   
+
+## hunger point 1
+
+tile.beetroot.name=Beetroot   
+item.dried_kelp.name=Dried Kelp   
+item.potato.name=Potato   
+item.pufferfish.name=Pufferfish   
+item.clownfish.name=Tropical Fish   
+
+## enc
+
+enchantment.arrowDamage= Power
+enchantment.arrowFire= Flame
+enchantment.arrowInfinite= Infinity
+enchantment.arrowKnockback= Punch
+enchantment.crossbowMultishot= Multishot
+enchantment.crossbowPiercing= Piercing
+enchantment.crossbowQuickCharge= Quick Charge
+enchantment.curse.binding= Curse of Binding
+enchantment.curse.vanishing= Curse of Vanishing
+enchantment.damage.all= Sharpness
+enchantment.damage.arthropods= Bane of Arthropods
+enchantment.damage.undead= Smite
+enchantment.digging= Efficiency
+enchantment.durability= Unbreaking
+enchantment.fire= Fire Aspect
+enchantment.fishingSpeed= Lure
+enchantment.frostwalker= Frost Walker
+enchantment.heavy_weapon.breach= Breach
+enchantment.heavy_weapon.density= Density
+enchantment.heavy_weapon.windburst= Wind Burst
+enchantment.knockback= Knockback
+enchantment.lootBonus= Looting
+enchantment.lootBonusDigger= Fortune
+enchantment.lootBonusFishing= Luck of the Sea
+enchantment.mending= Mending
+enchantment.oxygen= Respiration
+enchantment.protect.all= Protection
+enchantment.protect.explosion= Blast Protection
+enchantment.protect.fall= Feather Falling
+enchantment.protect.fire= Fire Protection
+enchantment.protect.projectile= Projectile Protection
+enchantment.soul_speed= Soul Speed
+enchantment.swift_sneak= Swift Sneak
+enchantment.thorns= Thorns
+enchantment.untouching= Silk Touch
+enchantment.waterWalker= Depth Strider
+enchantment.waterWorker= Aqua Affinity
+enchantment.tridentChanneling= Channeling
+enchantment.tridentLoyalty= Loyalty
+enchantment.tridentRiptide= Riptide
+enchantment.tridentImpaling= Impaling

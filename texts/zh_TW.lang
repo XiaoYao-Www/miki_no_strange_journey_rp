@@ -91,9 +91,9 @@ item.miki:wind_feather=§f風行羽
 
 item.miki:accessory_settings=§f飾品背包
 
-item.miki:gold_inlaid_nether_core=§f鍍金地獄核心
+item.miki:gold_inlaid_nether_core=§f鍍金地獄核心 
 
-item.miki:gold_inlaid_void_core=§f鍍金虛空核心
+item.miki:gold_inlaid_void_core=§f鍍金虛空核心 
 
 entity.miki:bear.name=§f熊
 item.spawn_egg.entity.miki:bear.name=§f生成 熊
@@ -101,3 +101,225 @@ item.spawn_egg.entity.miki:bear.name=§f生成 熊
 item.miki:raw_bison_slice=§f生野牛肉片
 
 item.miki:cooked_bison_slice=§f烤野牛肉片
+
+item.miki:blood_necklace=§f血靈項鍊 
+
+item.miki:ring_of_swiftness=§f迅捷戒 
+
+item.miki:warcry_belt=§f戰吼腰帶 
+
+item.miki:guardian_bracelet=§f守望手環 
+
+## UI 標籤
+ui.furnace.label=熔爐
+ui.smelter.label=高爐
+ui.smoker.label=燻製爐
+ui.brewing_stand.label=釀造台
+ui.enchanting_table.label=附魔台
+
+## 藥水強度和附魔等級符號
+potion.potency.1=	
+potion.potency.2=	
+potion.potency.3=	
+potion.potency.4=	
+potion.potency.5=	
+enchantment.level.1=	
+enchantment.level.2=	
+enchantment.level.3=	
+enchantment.level.4=	
+enchantment.level.5=	
+enchantment.level.6=	
+
+## 光照等級 15
+tile.beacon.name=信標 
+tile.conduit.name=海靈核心 
+entity.fireball.name=火球 
+item.flint_and_steel.name=打火石 
+tile.sea_pickle.name=海鞘 
+tile.pearlescent_froglight.name=珍珠蛙光體 
+tile.verdant_froglight.name=青翠蛙光體 
+tile.ochre_froglight.name=赭色蛙光體 
+tile.glowstone.name=螢石 
+tile.shroomlight.name=蕈光體 
+item.bucketLava.name=岩漿桶 
+tile.campfire.name=營火 
+tile.lantern.name=燈籠 
+tile.lit_pumpkin.name=南瓜燈 
+tile.redstone_lamp.name=紅石燈 
+tile.respawn_anchor.name=重生錨 
+tile.seaLantern.name=海燈籠 
+
+## 光照等級 14
+tile.end_rod.name=終界燭 
+item.glow_berries.name=螢光莓    
+tile.torch.name=火把 
+
+## 光照等級 13
+tile.blast_furnace.name=高爐 
+tile.furnace.name=熔爐 
+tile.smoker.name=燻製爐 
+
+## 光照等級 12
+tile.candle.name=蠟燭 
+tile.white_candle.name=白色蠟燭 
+tile.orange_candle.name=橙色蠟燭 
+tile.magenta_candle.name=洋紅色蠟燭 
+tile.light_blue_candle.name=淺藍色蠟燭 
+tile.yellow_candle.name=黃色蠟燭 
+tile.lime_candle.name=萊姆綠蠟燭 
+tile.pink_candle.name=粉紅色蠟燭 
+tile.gray_candle.name=灰色蠟燭 
+tile.light_gray_candle.name=淺灰色蠟燭 
+tile.cyan_candle.name=青色蠟燭 
+tile.purple_candle.name=紫色蠟燭 
+tile.blue_candle.name=藍色蠟燭 
+tile.brown_candle.name=棕色蠟燭 
+tile.green_candle.name=綠色蠟燭 
+tile.red_candle.name=紅色蠟燭 
+tile.black_candle.name=黑色蠟燭 
+
+## 光照等級 11
+tile.portal.name=傳送門 
+
+## 光照等級 10
+tile.soul_lantern.name=靈魂燈籠 
+tile.soul_torch.name=靈魂火把 
+tile.soul_campfire.name=靈魂營火 
+tile.crying_obsidian.name=哭泣黑曜石 
+
+## 光照等級 9
+tile.deepslate_redstone_ore.name=深板岩紅石礦 
+tile.redstone_ore.name=紅石礦 
+
+## 光照等級 7
+tile.enderChest.name=終界箱 
+tile.enchanting_table.name=附魔台 
+tile.glow_lichen.name=螢光地衣 
+tile.redstone_torch.name=紅石火把 
+
+## 光照等級 6
+tile.sculk_catalyst.name=幽匿催化劑 
+
+## 光照等級 5
+tile.amethyst_cluster.name=紫水晶簇 
+
+## 光照等級 4
+tile.large_amethyst_bud.name=大型紫水晶芽 
+
+## 光照等級 3
+tile.magma.name=岩漿塊 
+
+## 光照等級 2
+tile.medium_amethyst_bud.name=中型紫水晶芽 
+
+## 光照等級 1
+item.brewing_stand.name=釀造台 
+tile.brown_mushroom.name=棕色蘑菇 
+tile.dragon_egg.name=龍蛋 
+tile.end_portal_frame.name=終界傳送門框架 
+tile.sculk_sensor.name=幽匿感測器 
+tile.small_amethyst_bud.name=小型紫水晶芽 
+
+## 飢餓點 14
+item.cake.name=蛋糕   
+
+## 飢餓點 13
+item.suspicious_stew.name=可疑的燉湯   
+
+## 飢餓點 10
+item.rabbit_stew.name=兔肉湯   
+
+## 飢餓點 8
+item.cooked_beef.name=牛排   
+item.steak.name=牛排   
+item.pumpkin_pie.name=南瓜派   
+item.cooked_porkchop.name=熟豬排   
+
+## 飢餓點 6
+item.beetroot_soup.name=甜菜湯   
+item.cooked_chicken.name=熟雞肉   
+item.muttonCooked.name=熟羊肉   
+item.cooked_salmon.name=熟鮭魚   
+item.golden_carrot.name=金胡蘿蔔   
+item.honey_bottle.name=蜂蜜瓶   
+item.mushroom_stew.name=蘑菇湯   
+
+## 飢餓點 5
+item.baked_potato.name=烤馬鈴薯   
+item.bread.name=麵包   
+item.cooked_fish.name=熟鱈魚   
+item.cooked_rabbit.name=熟兔肉   
+
+## 飢餓點 4
+item.chorus_fruit.name=歌萊果   
+item.apple.name=蘋果   
+item.appleEnchanted.name=附魔金蘋果   
+item.golden_apple.name=金蘋果   
+item.rotten_flesh.name=腐肉   
+
+## 飢餓點 3
+item.carrot.name=胡蘿蔔   
+item.porkchop.name=生豬排   
+item.rabbit.name=生兔肉   
+item.beef.name=生牛肉   
+
+## 飢餓點 2
+item.chicken.name=生雞肉   
+item.melon.name=西瓜片   
+item.poisonous_potato.name=毒馬鈴薯   
+item.cookie.name=餅乾   
+item.fish.name=生鱈魚   
+item.spider_eye.name=蜘蛛眼   
+item.muttonRaw.name=生羊肉   
+item.salmon.name=生鮭魚   
+item.sweet_berries.name=甜莓   
+
+## 飢餓點 1
+tile.beetroot.name=甜菜根   
+item.dried_kelp.name=乾燥海帶   
+item.potato.name=馬鈴薯   
+item.pufferfish.name=河豚   
+item.clownfish.name=熱帶魚   
+
+## 附魔
+enchantment.arrowDamage= 力量
+enchantment.arrowFire= 火焰
+enchantment.arrowInfinite= 無限
+enchantment.arrowKnockback= 衝擊
+enchantment.crossbowMultishot= 多重射擊
+enchantment.crossbowPiercing= 穿透
+enchantment.crossbowQuickCharge= 快速裝填
+enchantment.curse.binding= 束縛詛咒
+enchantment.curse.vanishing= 消失詛咒
+enchantment.damage.all= 鋒利
+enchantment.damage.arthropods= 節肢剋星
+enchantment.damage.undead= 不死剋星
+enchantment.digging= 效率
+enchantment.durability= 耐久
+enchantment.fire= 火焰附加
+enchantment.fishingSpeed= 魚餌
+enchantment.frostwalker= 冰霜行者
+enchantment.heavy_weapon.breach= 破甲
+enchantment.heavy_weapon.density= 密度
+enchantment.heavy_weapon.windburst= 風暴爆發
+enchantment.knockback= 擊退
+enchantment.lootBonus= 掠奪
+enchantment.lootBonusDigger= 幸運
+enchantment.lootBonusFishing= 海之幸運
+enchantment.mending= 修補
+enchantment.oxygen= 呼吸
+enchantment.protect.all= 保護
+enchantment.protect.explosion= 爆炸保護
+enchantment.protect.fall= 羽落
+enchantment.protect.fire= 火焰保護
+enchantment.protect.projectile= 投射物保護
+enchantment.soul_speed= 靈魂疾走
+enchantment.swift_sneak= 迅捷潛行
+enchantment.thorns= 荊棘
+enchantment.untouching= 絲綢之觸
+enchantment.waterWalker= 深海漫步
+enchantment.waterWorker= 水下呼吸
+enchantment.tridentChanneling= 引雷
+enchantment.tridentLoyalty= 忠誠
+enchantment.tridentRiptide= 激流
+enchantment.tridentImpaling= 穿刺

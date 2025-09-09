@@ -1,0 +1,49 @@
+{
+  "smelter_panel_top_half": {
+    "type": "panel",
+    "size": [
+      "100%",
+      "50% - 12px"
+    ],
+    "offset": [
+      0,
+      7
+    ],
+    "anchor_to": "top_left",
+    "anchor_from": "top_left",
+    "controls": [
+      {
+        "furnace_label@smelter_label": {}
+      },
+      {
+        "input@furnace.furnace_input_panel": {}
+      },
+      {
+        "furnace_arrow_empty_image@furnace.furnace_arrow_empty_image": {
+          "anchor_to": "center",
+          "anchor_from": "center"
+        }
+      },
+      {
+        "furnace_arrow_full_image@furnace.furnace_arrow_full_image": {
+          "anchor_to": "center",
+          "anchor_from": "center"
+        }
+      },
+      {
+        "output@furnace.furnace_output_panel": {}
+      }
+    ]
+  },
+  "smelter_label": {
+    "type": "label",
+    "offset": [
+      0,
+      -3
+    ],
+    "anchor_from": "top_middle",
+    "anchor_to": "top_middle",
+    "text": "ui.smelter.label",
+    "layer": 2
+  }
+}

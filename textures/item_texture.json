@@ -16,7 +16,7 @@
         "pufferfish_soup": {
             "textures": "textures/items/pufferfish_soup.png"
         },
-        "goblin_ear": {
+        "miki:goblin_ear_icon": {
             "textures": "textures/items/goblin_ear.png"
         },
         "cooked_goblin_ear": {

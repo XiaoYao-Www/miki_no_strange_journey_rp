@@ -103,6 +103,8 @@ item.miki:warcry_belt=§fWarcry Belt 
 
 item.miki:guardian_bracelet=§fGuardian Bracelet 
 
+item.miki:regular_cooked_pufferfish=§fRegular Cooked Pufferfish
+
 ui.furnace.label=Furnace
 ui.smelter.label=Blast Furnace
 ui.smoker.label=Smoker

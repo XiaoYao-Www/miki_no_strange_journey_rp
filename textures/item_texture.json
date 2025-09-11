@@ -90,6 +90,9 @@
 		},
 		"guardian_bracelet": {
 			"textures": "textures/items/guardian_bracelet.png"
-		}
+		},
+        "miki:regular_cooked_pufferfish_icon": {
+            "textures": "textures/items/regular_cooked_pufferfish.png"
+        }
     }
 }

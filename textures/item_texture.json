@@ -93,6 +93,9 @@
 		},
         "miki:regular_cooked_pufferfish_icon": {
             "textures": "textures/items/regular_cooked_pufferfish.png"
-        }
+        },
+        "relic_of_eternal_night": {
+			"textures": "textures/items/relic_of_eternal_night.png"
+		}
     }
 }

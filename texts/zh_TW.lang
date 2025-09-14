@@ -110,9 +110,11 @@ item.miki:warcry_belt=§f戰吼腰帶 
 
 item.miki:guardian_bracelet=§f守望手環 
 
-item.miki:relic_of_eternal_night=§f永夜權杖 
+item.miki:relic_of_eternal_night=§f永夜權杖 
 
 item.miki:regular_cooked_pufferfish=§f普通烤河豚肉
+
+item.myname:codex_of_eternal_day=§f永晝法典
 
 
 ## UI 標籤

@@ -96,6 +96,8 @@
         },
         "relic_of_eternal_night": {
 			"textures": "textures/items/relic_of_eternal_night.png"
+		},"codex_of_eternal_day": {
+			"textures": "textures/items/weapon/codex_of_eternal_day.png"
 		}
     }
 }

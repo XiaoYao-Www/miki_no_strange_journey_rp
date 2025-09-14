@@ -1,0 +1,10 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "miki.eternal_night_immortality_trigger": {
+            "category": "player",
+            "max_distance": 16,
+            "sounds": ["sounds/eternal_night_immortality_trigger"]
+        }
+    }
+}
